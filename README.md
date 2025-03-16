@@ -1,2 +1,21 @@
-# DVLD---Driving-Vehicle-License-Department-
- A comprehensive system for managing the issuance and renewal of driving licenses, including driving tests, vision tests, medical exams, and international license issuance. Built with **C# .NET Framework** and **Windows Forms**, utilizing **SQL Server** for efficient data and permissions management.
+DVLD - Driving Vehicle License Department 🚗💳
+
+📌 About the Project
+
+DVLD is a system designed to manage the process of issuing and renewing vehicle and truck driving licenses. It supports all necessary tests and procedures required for obtaining a license according to global standards. The system includes driving tests, vision tests, theoretical and practical exams, medical examinations, and the reissuance of lost or damaged licenses, as well as international license issuance.
+
+🔹 System Features
+
+✅ Supports all globally recognized driving tests.
+✅ Issuance, renewal, and reissuance of various types of licenses.
+✅ Capability to issue replacements for lost or damaged licenses.
+✅ User management and role-based access control.
+✅ Transaction logging for tracking user activities.
+✅ Support for international driving license issuance and management.
+
+🛠️ Technologies Used
+
+C# .NET Framework 💻
+Windows Forms 🖥️
+SQL Server 🗄️
+
