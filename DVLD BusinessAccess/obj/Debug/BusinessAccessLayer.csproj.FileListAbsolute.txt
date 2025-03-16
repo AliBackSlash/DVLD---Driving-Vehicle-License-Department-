@@ -1,0 +1,18 @@
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\bin\Debug\DVLD BusinessAccess.dll
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\bin\Debug\DVLD BusinessAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\bin\Debug\DVLD DataAccess.dll
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\bin\Debug\DVLD DataAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\DVLD BusinessAccess.dll
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\DVLD BusinessAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD BusinessAccess\bin\Debug\DVLD BusinessAccess.dll
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD BusinessAccess\bin\Debug\DVLD BusinessAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD BusinessAccess\bin\Debug\DVLD DataAccess.dll
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD BusinessAccess\bin\Debug\DVLD DataAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD BusinessAccess\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD BusinessAccess\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD BusinessAccess\obj\Debug\DVLD BusinessAccess.dll
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD BusinessAccess\obj\Debug\DVLD BusinessAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD BusinessAccess\obj\Debug\Business.395A7FC9.Up2Date

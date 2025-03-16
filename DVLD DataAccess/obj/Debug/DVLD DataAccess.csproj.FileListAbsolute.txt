@@ -1,0 +1,12 @@
+C:\Users\ALI\Source\Repos\DVLD DataAccess\bin\Debug\DVLD DataAccess.dll
+C:\Users\ALI\Source\Repos\DVLD DataAccess\bin\Debug\DVLD DataAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD DataAccess\obj\Debug\DVLD DataAccess.csproj.AssemblyReference.cache
+C:\Users\ALI\Source\Repos\DVLD DataAccess\obj\Debug\DVLD DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ALI\Source\Repos\DVLD DataAccess\obj\Debug\DVLD DataAccess.dll
+C:\Users\ALI\Source\Repos\DVLD DataAccess\obj\Debug\DVLD DataAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD DataAccess\bin\Debug\DVLD DataAccess.dll
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD DataAccess\bin\Debug\DVLD DataAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD DataAccess\obj\Debug\DVLD DataAccess.csproj.AssemblyReference.cache
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD DataAccess\obj\Debug\DVLD DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD DataAccess\obj\Debug\DVLD DataAccess.dll
+C:\Users\ALI\Source\Repos\DVLD project solution in the good way\DVLD DataAccess\obj\Debug\DVLD DataAccess.pdb

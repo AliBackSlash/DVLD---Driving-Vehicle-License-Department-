@@ -1,0 +1,9 @@
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\bin\Debug\DVLD BusinessAccess.dll
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\bin\Debug\DVLD BusinessAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\bin\Debug\DVLD DataAccess.dll
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\bin\Debug\DVLD DataAccess.pdb
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\BusinessAccess.csproj.AssemblyReference.cache
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\BusinessAccess.csproj.CoreCompileInputs.cache
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\BusinessAccess.csproj.CopyComplete
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\DVLD BusinessAccess.dll
+C:\Users\ALI\Source\Repos\DVLD BusinessAccess\obj\Debug\DVLD BusinessAccess.pdb
